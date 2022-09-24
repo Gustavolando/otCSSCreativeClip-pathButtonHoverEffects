@@ -1,6 +1,6 @@
 ## CSS Creative Clip-path Button Hover Effect
 
-I coded this practice a few months ago to review the clip-path feature of CSS with this nice and alegant button.
+I coded this practice a few months ago to review the clip-path feature of CSS with this nice and elegant button.
 I hope you enjoy watching it as I enjoyed coding from the Online Tutorials [videos](https://www.youtube.com/watch?v=bdPXAl2mRTA).
 
 This is pure HTML and CSS ONLY!!
